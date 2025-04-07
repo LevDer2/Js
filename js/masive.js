@@ -32,3 +32,19 @@
 //     const something = (`${user}-${counter}`)
 //     console.log(something);
 // }
+
+// const students = ["Mykola", "Lev", "Vlad D.", "Nazar", "Rostislav", "Vlad"];
+// console.log(students);
+// const newstudents = students.slice(0, 3); // Вирізає елементи масиву від "start" до "end (не включно)"  
+// console.log(newstudents);
+
+// const num = [10, 2, 3, 5];
+// console.log(num);
+// const nuor = num.slice();
+// console.log(nuor);
+
+//Додавання елементів в масив з заміною якогось елемента
+
+// const languages = ["C", "C++", "Java", "Java Skript"];
+// languages.slice(0,1);
+// console.log(languages);
