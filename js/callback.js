@@ -132,10 +132,11 @@
 // Напиши стрілкову функцію myNewArrowFunction(), яка приймає всі аргументи за допомогою ...rest і в результаті виводить масив цих аргументів у консоль.
 // Для перевірки:
 
-const myNewArrowFunction = (...rest) => rest
+// const myNewArrowFunction = (...rest) => rest
 
-// myNewArrowFunction(1, 2, 3);
-// myNewArrowFunction(100, 200, 300, 400, 500);
-// myNewArrowFunction("Js", "Python", "Java", "PHP", "C++");
+// // myNewArrowFunction(1, 2, 3);
+// // myNewArrowFunction(100, 200, 300, 400, 500);
+// // myNewArrowFunction("Js", "Python", "Java", "PHP", "C++");
 
-console.log(myNewArrowFunction("Js", "Python", "Java", "PHP", "C++"));
+// console.log(myNewArrowFunction("Js", "Python", "Java", "PHP", "C++"));
+    
